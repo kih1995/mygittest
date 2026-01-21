@@ -48,5 +48,5 @@ jobs:   # job은 여러 개의 step으로 구성됨
 
       # 3. 파이썬 파일 실행 (main.py가 있다는 가정 하에)
       - name: Run script
-        run: python main.py
+        run: python app.py
 
